@@ -1,61 +1,92 @@
-## Introduction to Software modeling and analysis
-<sup>This repository is part of the **Software modeling and analysis course** for regular students of Software Engineering at Plovdiv University.</sup>\
-The course is designed to provide an overview of the principles of building a database model according to the program specifications for software projects. Defining a conceptual, logical, and physical model of the data allows verification of program specifications and a better understanding of data flow and management methods from all parties in the project.
+Преминаване към основното съдържание
+Google Classroom
+Classroom
+Software modeling and analysis
+Software Engineering - r - 2025/2026
+Начална страница
+Календар
+Записан/а
+За изпълнение
+P
+Python за FinTech разработка (2025-2026)
+з
+зимен 2025 KMK СИ редовно 3к
+Редовна дисциплина
+М
+Мобилни приложения ред. 2025 - 2026
+S
+Software modeling and analysis
+Software Engineering - r - 2025/2026
+Архивирани курсове
+Настройки
+Домашна работаПодробности за заданието
+Домашна работа
+Павел Кюркчиев
+•
+14.10
+1
+/1
+1 точка от възможни 1
+Краен срок: 5.11, 23:59
+Да се опишат бизнес изискванията, които ще се използват за описание на моделите на базата данни за курсовата работа. Трябва да се попълни  template в репозиторито  course-work/project-template.md. Това трябва да се направи във вашето копие на репозиторито и да се  до него!
+software-modeling-and-analysis-se/course-work/project-template.md at master · pkyurkchiev/software-modeling-and-analysis-se · GitHub
+https://github.com/pkyurkchiev/software-modeling-and-analysis-se/blob/master/course-work/project-template.md
 
-Course participants are introduced to the theory and formal processes of data modeling for various purposes.
+Коментари за курса
+Вашата работа
+Оценено
+README.txt
+Текст
 
-### POLL
+Работата не може да бъде предадена след крайния срок
+Частни коментари
+Описание на проект: SkillSwap — Платформа за обмен на умения
+Версия: 1.0
+Дата: 2025-11-04
 
-### Competencies
-Upon successful completion of this course, participants will:
-#### Knowledge:
-* Understand the main types of specialized documents used in creating database models.
-* Understand how conceptual, logical, and physical data models relate to functional requirements.
-#### Skills:
-* Identify the constituent elements of the model and their attributes.
-* Define the relationships between the elements of the model.
-* Define business rules for data integrity and content.
-* Achieve data integrity through normalization.
-* Design models for various practical purposes.
+1. Резюме на проекта
+Цел на проекта:
+Да се създаде онлайн платформа, която позволява на потребителите да споделят и обменят умения помежду си чрез онлайн или присъствени уроци, без необходимост от парично заплащане.
 
-### Course Structure
-The course is structured into several key sections, each focusing on a different aspect of data modeling. The sections are designed to be followed in order.
-* [Course Roadmap](https://miro.com/app/board/uXjVO845q9I=/)
+Целева аудитория:
+Хора, които желаят да научат нови неща, студенти, фрийлансъри, преподаватели и ентусиасти от различни области.
 
-## Getting Started
-To get started with the course, clone this repository and follow the instructions in each section. If you have any questions or run into any issues, please open an issue and we'll do our best to help.
-* [Exercises need tools](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/documentations/tools.md)
+Основни резултати:
+Уеб приложение с възможност за регистрация, създаване на профил, публикуване на предложения и заявки за умения, чат между потребители и система за оценяване.
 
+2. Обхват и основни функционалности
+- Управление на потребители: 
+- Регистрация, вход, профил, настройка и история на сесии.
+- Каталог на умения: Търсене, филтриране, добавяне и категоризация на умения.
+- Обяви и заявки: Публикуване на предложения и заявки, автоматично съвпадение между потребители.
+- Сесии: Календар, потвърждение, оценка и история на проведени уроци.
+- Отзиви и оценки: Система за рейтинги и коментари.
+- Комуникация: Вграден чат между потребители.
+- Административен панел: Управление на потребители, умения и съдържание.
 
-### Weeks Schedule
-* First week: 
-  * presentations - [Data Modeling - p1](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-01.pdf), [Data Modeling - p2](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-02.pdf)
-* Second week:
-  * pesentations - [Conceptual Data Model - p3](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-03.pdf)
-* Third week:
-  * presentations -[Logical & Physical Data Model - p4](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-04.pdf), [Logical & Physical Data Model - p5](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-05.pdf)
-* Fourth week:
-  * presentations - [Normalization & Denormalization - p6](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-06.pdf)
-* Fifth week:
-  * presentations - [Physical Data Model - p7](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-07.pdf)
-* Sixth week:
-  * presentations - [Data Warehouses - p8](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-08.pdf)
-* Seventh week:
-  * presentations -
- [Multidimensional Database - p9](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-09.pdf)
-* Eighth week:
-  * presentations -
- [Multidimensional Data Model - p10](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-10.pdf)
-* Ninth week:
-  * presentations -
- [Tabular Database - p11](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-11.pdf), [Data Flow Diagrams - p12](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-12.pdf)
-* Tenth week:
-  * presentations -
- [NoSQL Database Model - p13](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-13.pdf), [Business Intelligence - p14](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-14.pdf)
+3. Технологичен стек
+- Backend: Node.js (Express), REST API, JWT Authentication
+- Frontend: React, TailwindCSS, Redux Toolkit
+- Database: PostgreSQL с Sequelize ORM
+- Допълнителни технологии: Socket.io (чат), Cloudinary (снимки), Docker (контейнеризация)
 
-### Course assignment
-* [Task](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/blob/master/course-work/README.md)
-* [Assessment Requirements](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/documentations/assessment-requirements.md)
+4. Основни бизнес правила
+4.1 Правила за достъп и роли:
+- Гост: може да разглежда публични обяви.
+- Потребител: може да публикува обяви, заявки и да участва в сесии.
+- Ментор: предлага обучение по умения, управлява графика си.
+- Администратор: пълен достъп до всички данни и потребители.
 
-### License
-This course is licensed under the MIT License. See the LICENSE file for more details.
+4.2 Ключови бизнес правила:
+- Сесии: трябва да бъдат потвърдени от двамата участници; могат да се отменят до 12 часа преди началото.
+- Отзиви: публикуват се само след проведена сесия.
+- Каталог на умения: уникални имена в рамките на категория.
+- Профили: уникален имейл, рейтинг и ниво на доверие (trust level).
+
+4.3 Правила за данните:
+- Потребители: имейлите са уникални, пароли се съхраняват като хешове.
+- Сесии: не могат да се насрочват две едновременно за един и същ потребител.
+- Умения: всяко умение принадлежи към поне една категория.
+- Отзиви: свързани със сесия, не могат да се редактират след публикуване.
+README.txt
+Показва се „README.txt“.
